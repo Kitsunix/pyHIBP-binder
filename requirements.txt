@@ -1,5 +1,5 @@
 # Our main package for this binder
-pyHIBP==2.0.2
+pyHIBP==2.1.0
 # These two should be pulled in by the above, but we might as well specify them for completeness.
 requests>=2.18.4
 six>=1.11.0
