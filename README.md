@@ -1,6 +1,12 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gl/kitsunix%2FpyHIBP%2FpyHIBP-binder/master)
+pyHIBP (pyHave I Been Pwned)
+============================
+[![image](https://img.shields.io/pypi/v/pyHIBP.svg)](https://pypi.org/project/pyHIBP/)
+[![image](https://img.shields.io/pypi/l/pyHIBP.svg)](https://pypi.org/project/pyHIBP/)
+[![image](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gl/kitsunix%2FpyHIBP%2FpyHIBP-binder/master)
 
-Curious on how to use the ``pyHIBP`` package? Would you like to see what the output of the functions are before you use the functions?
+-----------------
+
+Curious on how to use the `pyHIBP` package? Would you like to see what the output of the functions are before you use the functions?
 
 That's what this repository is for. Displaying the information which can be returned from the pyHIBP package in a manner which can be manipulated, via Jupyter Notebooks. It's nothing overly special, however it may be helpful to some, and that's why they were created.
 
