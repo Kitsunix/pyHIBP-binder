@@ -1,2 +1,2 @@
 # Our main package for this binder
-pyHIBP==4.1.0
+pyHIBP==4.2.0
